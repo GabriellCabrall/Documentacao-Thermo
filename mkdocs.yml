@@ -1,7 +1,7 @@
 site_name: "Documentação Thermo"
 nav:
   - Home: index.md
-  - Introdução: introducao.md
+  - Repositórios: repositorios.md
 theme:
   name: material
   palette:
