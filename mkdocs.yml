@@ -1,0 +1,24 @@
+site_name: "Documentação Thermo"
+nav:
+  - Home: index.md
+  - Introdução: introducao.md
+theme:
+  name: material
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      primary: dark blue
+      accent: light blue
+
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: light blue
+      accent: blue
+
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
