@@ -2,6 +2,8 @@ site_name: "Documentação Thermo"
 nav:
   - Home: index.md
   - Repositórios: repositorios.md
+  - Arquitetura:
+      - Documento de Arquitetura de Software: arquitetura/documento-arquitetura.md
 theme:
   name: material
   palette:
@@ -22,3 +24,7 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+
+plugins:
+  - search
+  - include-markdown
