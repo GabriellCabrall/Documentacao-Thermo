@@ -43,6 +43,18 @@ Esse documento serve como guia para outros tópicos da contrução arquitetural 
 - **Usabilidade** - O _software_ deve possuir alta aprendibilidade e inteligibilidade, para que atenda aos requisitos elicitados;
 - **Manutenibilidade** - O código e as documentações realizadas pelo desenvolvedor devem atingir um alto nível de qualidade, seguindo os padrões de projeto e bibliografia, onde a manutenção seja fácil de ser realizada.
 
+## 4. Visão Lógica
+
+A visão lógica descreve como o sistema é estruturado, em termos de unidade e implementação. Mostra como está a organização conceitual do sistema em termos de camadas, pacotes, classes e interfaces. O relacionamento entre os elementos mostra as dependências, as realizações de interface, os relacionamentos parte-todo e assim por diante.
+
+### 4.1 Diagrama de Classes
+
+_Em desenvolvimento_
+
+## 5. Visão de Deploy
+
+Descreve como a aplicação é disponibilizada para uso, seja em ambiente de desenvolvimento, para testes ou em produção. O deploy será feito utilizando ferramentas disponíveis como Heroku, AWS, etc.
+
 ---
 
 | Data       | Versão | Descrição                                         | Autor(es)                                           |
