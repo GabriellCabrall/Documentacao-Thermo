@@ -1,6 +1,6 @@
 site_name: "Documentação Thermo"
 nav:
-  - Home: index.md
+  - Introdução: index.md
   - Repositórios: repositorios.md
   - Arquitetura:
       - Documento de Arquitetura de Software: arquitetura/documento-arquitetura.md
