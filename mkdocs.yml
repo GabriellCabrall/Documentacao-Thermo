@@ -5,6 +5,7 @@ nav:
   - Arquitetura:
       - Documento de Arquitetura de Software: arquitetura/documento-arquitetura.md
   - Planejamento:
+      - Documento de visão: planejamento/documento-visao.md
       - Requisitos: planejamento/documento-requisitos.md
 theme:
   name: material
