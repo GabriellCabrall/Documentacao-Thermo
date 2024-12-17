@@ -28,8 +28,24 @@ Esse documento serve como guia para outros tópicos da contrução arquitetural 
 
 - **Django**: Django é um framework para desenvolvimento rápido para web, escrito em Python, que utiliza o padrão model-template-view. Também foi utilizado o banco de dados gerado pelo o Django que utilza o SQL.
 
+## 3. Metas e Restrições da Arquitetura
+
+### 3.1. - Restrições
+
+- O _software_ deve ser desenvolvido com as tecnologias definidas;
+- O _software_ deve rodar nos navegadores: Web Firefox, Google Chrome, Edge e Opera;
+- O ambiente de desenvolvimento do _software_ deve funcionar tanto em Windows quanto em Linux;
+- Para utilizar o _software_ é necessário estar conectado à internet;
+
+### 3.2. - Metas
+
+- **Portabilidade** - Deve ser possível utilizar a plataforma em qualquer navegador web;
+- **Usabilidade** - O _software_ deve possuir alta aprendibilidade e inteligibilidade, para que atenda aos requisitos elicitados;
+- **Manutenibilidade** - O código e as documentações realizadas pelo desenvolvedor devem atingir um alto nível de qualidade, seguindo os padrões de projeto e bibliografia, onde a manutenção seja fácil de ser realizada.
+
 ---
 
-| Data       | Versão | Descrição                                       | Autor(es)                                           |
-| ---------- | ------ | ----------------------------------------------- | --------------------------------------------------- |
-| 15/12/2024 | 1.0    | Iniciando a criação da modelagem de arquitetura | [Gabrie Cabral](https://github.com/GabriellCabrall) |
+| Data       | Versão | Descrição                                         | Autor(es)                                           |
+| ---------- | ------ | ------------------------------------------------- | --------------------------------------------------- |
+| 16/12/2024 | 1.0    | Iniciando a criação da modelagem de arquitetura   | [Gabrie Cabral](https://github.com/GabriellCabrall) |
+| 17/12/2024 | 1.1    | Continuando a criação da modelagem de arquitetura | [Gabrie Cabral](https://github.com/GabriellCabrall) |
