@@ -4,11 +4,11 @@
 
 ### 1.1. Finalidade
 
-Este documento oferece uma visão geral arquitetural abrangente do sistema, usando visões arquiteturais para representar diferentes aspectos do sistema. O objetivo deste documento pe capturar e comunicar as decisões arquiteturais significativas que foram tomadas em relação ao sistema.
+Este documento oferece uma visão geral arquitetural abrangente do sistema, utilizando diferentes perspectivas arquiteturais. O objetivo é capturar e comunicar as decisões arquiteturais significativas tomadas em relação ao sistema.
 
 ### 1.2. Escopo
 
-Esse documento serve como guia para outros tópicos da contrução arquitetural do software, abordado os principais pontos desenvolvidos na arquitetura do projeto, a partir desse breve resumo de cada tópico é possível se orientar com relação a outros documentos da arquitetura desenvolvidos no projeto, onde é possível ter uma visão detalhada de cada tema.
+Este documento serve como guia para a construção arquitetural do software, abordando os principais pontos desenvolvidos na arquitetura do projeto. A partir deste resumo, é possível se orientar sobre outros documentos detalhados da arquitetura do projeto, proporcionando uma visão clara e completa de cada tema.
 
 ## 2. Representação Arquitetural
 
@@ -26,7 +26,7 @@ Esse documento serve como guia para outros tópicos da contrução arquitetural 
 
 - **Python**: Python é uma linguagem de programação de alto nível, interpretada de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte.
 
-- **Django**: Django é um framework para desenvolvimento rápido para web, escrito em Python, que utiliza o padrão model-template-view. Também foi utilizado o banco de dados gerado pelo o Django que utilza o SQL.
+- **Django**: Django é um framework para desenvolvimento rápido para web, escrito em Python, que utiliza o padrão model-template-view. Também foi utilizado o banco de dados gerado pelo o Django que utiliza o SQL.
 
 ## 3. Metas e Restrições da Arquitetura
 
@@ -54,6 +54,28 @@ _Em desenvolvimento_
 ## 5. Visão de Deploy
 
 Descreve como a aplicação é disponibilizada para uso, seja em ambiente de desenvolvimento, para testes ou em produção. O deploy será feito utilizando ferramentas disponíveis como Heroku, AWS, etc.
+
+## 6. Visão de implementação
+
+### 6.1. Visão Geral
+
+Descreve como os artefatos de desenvolvimento estão organizados no sistema de arquivos, incluindo arquivos e diretórios relevantes, bem como itens de configuração. Isso abrange tanto os artefatos de desenvolvimento, como código-fonte e scripts, quanto os artefatos de implantação, como pacotes e executáveis necessários para colocar o software em produção. Essa visão é opcional dentro da abordagem das Visões 4+1, que se referem às diferentes perspectivas arquiteturais de um sistema. A inclusão dessa visão pode ajudar a facilitar a navegação e a manutenção do projeto, proporcionando uma melhor compreensão da estrutura dos arquivos e diretórios.
+
+### 6.2. Diagrama de Classes
+
+O Diagrama de Classes é uma representação da estrutura e relações das classes que servem de modelo para os objetos. Consiste em um conjunto de objetos com as mesmas características. Dessa forma, consegue-se identificar os objetos e agrupá-los, de forma a encontrar suas respectivas classes.
+
+## 7. Tamanho e Desempenho
+
+### 7.1 Visão Geral
+
+Descrição do desempenho e das características do _software_ que impactam na arquitetura de software
+
+### 7.2 Requisitos Mínimos
+
+- É necessário possuir conexão com a internet;
+- Navegador com suporte a HTML5, CSS e JavaScript
+- Para desenvolvimento possuir sistema operacional Windows ou Linux
 
 ---
 
