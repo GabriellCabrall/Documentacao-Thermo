@@ -4,6 +4,8 @@ nav:
   - Repositórios: repositorios.md
   - Arquitetura:
       - Documento de Arquitetura de Software: arquitetura/documento-arquitetura.md
+  - Modelagem:
+      - Driagrama de Classes: modelagem/diagrama-classes.md
   - Planejamento:
       - Documento de visão: planejamento/documento-visao.md
       - Brainstorm: planejamento/brainstorm.md
