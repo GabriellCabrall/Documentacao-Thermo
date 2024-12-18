@@ -49,7 +49,7 @@ A visão lógica descreve como o sistema é estruturado, em termos de unidade e 
 
 ### 4.1 Diagrama de Classes
 
-_Em desenvolvimento_
+![alt text](../assets/diagrama_classe.png)
 
 ## 5. Visão de Deploy
 
