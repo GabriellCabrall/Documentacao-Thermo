@@ -6,6 +6,7 @@ nav:
       - Documento de Arquitetura de Software: arquitetura/documento-arquitetura.md
   - Planejamento:
       - Documento de visão: planejamento/documento-visao.md
+      - Brainstorm: planejamento/brainstorm.md
       - Requisitos: planejamento/documento-requisitos.md
 theme:
   name: material
