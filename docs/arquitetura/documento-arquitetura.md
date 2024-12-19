@@ -16,7 +16,7 @@ Este documento serve como guia para a construção arquitetural do software, abo
 
 #### Frontend
 
-- **TypeScript**: TypeScript é uma linguagem de programação de código aberto desenvolvida pela Microsoft. É um superconjunto sintático estrito de JavaScript e adiciona tipagem estática opcional à linguagem.
+- **Javascript**: JavaScript é uma linguagem de programação de alto nível e dinâmica, amplamente utilizada no desenvolvimento web. Desenvolvida inicialmente pela Netscape, tornou-se uma das principais tecnologias da web, ao lado de HTML e CSS. JavaScript permite a criação de páginas web interativas, manipulando o DOM (Document Object Model) e permitindo a integração de APIs externas. É uma linguagem interpretada que segue o padrão ECMAScript, sendo flexível e poderosa, com tipagem dinâmica e suporte a programação orientada a objetos, funcional e imperativa. Sua popularidade e versatilidade a tornam essencial para o desenvolvimento moderno de aplicações web.
 
 - **React**: O React é um conjunto de bibliotecas open source voltados para a criação de UIs interativas de forma mais fácil. Toda a lógica do React é escrita em JavaScript, facilitando a passagem de dados ao longo da aplicação. Essa tecnologia foi escolhida por conta da quantidade de conteúdo disponível na internet, facilitando o treinamento e aprendizado da equipe. Outro fator importante é a comunidade, que está sempre ativa para ajudar em possíveis dúvidas.
 
